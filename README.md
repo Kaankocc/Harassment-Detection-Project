@@ -1,6 +1,6 @@
 # Harassment Detection Using Machine Learning 📱
 
-This project focuses on using various Python-based machine learning and data science libraries to build a model capable of detecting toxic internet comments, specifically targeting harassment in online platforms.
+This project focuses on using various Python-based machine learning and data science libraries, particularly TensorFlow, to build a neural network capable of detecting toxic internet comments, specifically targeting harassment on online platforms.
 
 ## 1. Problem Definition
 
